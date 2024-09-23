@@ -1,0 +1,15 @@
+    
+    .container {
+        display: flex; /* или grid */
+    }
+    .text {
+        font-size: 1.5em; /* больше чем text2 */
+    }
+    .text2 {
+        font-size: 1em;
+    }
+    .image {
+        height: auto; /* пропорционально вписываться */
+        max-height: 200px; /* пример высоты */
+    }
+    
